@@ -15,7 +15,6 @@ int pom;
 
 int main()
 {
-	string linia;
 	fstream plik;
 
 	int rozmiar = 0;
